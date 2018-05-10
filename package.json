@@ -1,0 +1,37 @@
+{
+  "name": "layout-pebblewatches",
+  "version": "1.0.0",
+  "description": "A Pure HTML CSS & JS based Layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArslanAmeer/Layout-PebbleWatches.git"
+  },
+  "author": "Arslan Ameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArslanAmeer/Layout-PebbleWatches/issues"
+  },
+  "homepage": "https://github.com/ArslanAmeer/Layout-PebbleWatches#readme",
+  "dependencies": {
+    "hoek": "^5.0.3",
+    "npm-check-updates": "^2.14.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^3.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify-es": "^1.0.1",
+    "less-plugin-autoprefix": "^1.5.1",
+    "less-plugin-glob": "^2.0.2"
+  }
+}
