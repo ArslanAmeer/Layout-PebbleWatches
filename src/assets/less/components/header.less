@@ -1,0 +1,35 @@
+.top-header {
+    background-color: @header-bgcolor;
+    .narrow {
+        text-transform: uppercase;
+        padding: 3px;
+        font-size: .8em;
+        a {
+            color: white;
+            display: inline-block;
+            padding: 10px;
+            border-bottom: 2px solid transparent;
+            transition: all 0.3s;
+            &:hover {
+                border-bottom: 2px solid white;
+            }
+        }
+        a.titlelogo {
+            position: absolute;
+            left: 50%;
+            -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+            margin-top: -5px;
+            border-bottom: none;
+            img {
+                width: 55px;
+            }
+        }
+        div {
+            float: right;
+            a {
+                text-transform: none;
+            }
+        }
+    }
+}
