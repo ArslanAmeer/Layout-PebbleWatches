@@ -1,6 +1,6 @@
 # Layout-PebbleWatches
 
-## Simple and Elegent Layout made with HTML, CSS and JS.
+## Simple and Elegant Layout made with HTML, CSS and JS.
 
 A Simple and Elegant Layout (or Theme) made with Pure HTML5 CSS3 and JS.
 
@@ -16,7 +16,7 @@ It Is Responsive and Mobile Friendly Layout!
 ### TRY NOW: [Coming-Soon]()✨
 
 #### NOTE: **_Just A Work Demo!_**
-##### Note: Need Minor Improvments and Enhancments! (Will Update Soon)
+##### Note: Need Minor Improvements and Enhancements! (Will Update Soon)
 
 _(Arslan Ameer)_
 (Work in Progress)
